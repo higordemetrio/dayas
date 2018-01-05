@@ -1,0 +1,107 @@
+body{
+}
+
+
+@font-face {
+  font-family: 'Dayas';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Dayas'), url('fonte.ttf') format('truetype');
+}
+
+#topo{
+
+  overflow: hidden;
+	background-color: white;
+  
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+  	margin-top: 0px;
+}
+
+#logo{
+	font-family: 'Dayas';
+	color: black;
+	font-size: 70px;
+	margin-top: 1cm;
+	margin-bottom: 1cm;
+}
+
+#galeria{
+  margin-top: 1cm;
+  z-index:2;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 130px;
+  
+}
+
+#inicio{
+	margin-top: 150px;
+}
+
+.navbar {
+  background-color: black;
+  position: fixed;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.affix {
+  top: 0;
+  width: 100%;
+}
+
+.affix + .container-fluid {
+  padding-top: 70px;
+}
+
+.secao{
+	margin-top: 2cm;
+}
+
+.spam-secao{
+	background-color: black;
+	color: white;
+	border: 10px solid black;
+	display: inline;
+	border-radius: 20px 20px 1px 1px;
+}
+
+hr {
+    border-top: 1px solid black;
+}
+
+
+
+#mapa_endereco{
+
+  overflow: hidden;
+	background-color: white;
+    width: 100%; /* Full width */
+  	margin-top: 0px;
+}
+
+
+.borda_esq{
+  	border-left: 20px solid black;
+  	font-size: 30px;
+}
+
+.rodape{
+	background-color: #222;
+	color: white;
+	margin-top: 1cm;
+	align-items: center;
+}
