@@ -1,5 +1,5 @@
 
-	<div id="myCarousel" class="carousel slide" data-ride="carousel" style="width: 700px; margin: 0 auto;z-index:1;">
+	<div id="myCarousel" class="carousel slide" data-ride="carousel" style=" margin: 0 auto;z-index:1;">
 	    <ol class="carousel-indicators">	
 			<?php 
 				include('photos.php');

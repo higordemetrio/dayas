@@ -44,7 +44,7 @@
 	</nav>
  
 	<div id=galeria  style="z-index:1;">
-		<div class="container-fluid col-md-6 col-md-offset-3"  style="z-index:1;">
+		<div class="container-fluid col-md-7 col-md-offset-3"  style="z-index:1;">
 			<?php include('galeria.php') ?>
 		</div>
 	</div>
@@ -69,19 +69,29 @@
 		<hr>
 	</div>
 
-	<div class="col-md-6 col-md-offset-3 borda_esq">
-	<spam> <img src="icons/tele_preto.png" width="50px">  (34) 3262 2458</spam><br><br>
-	<spam> <img src="icons/wpp_preto.png" width="50px">  (34) 9 9206 0023</spam><br><br>
-	<spam> <a href="https://www.facebook.com/dayas.ituiutaba" target="_blank"> <img src="icons/face_preto.png" width="50px"> https://www.facebook.com/dayas.ituiutaba </a></spam><br><br>
-	<spam> <a href="https://www.instagram.com/dayas_modas" target="_blank"> <img src="icons/insta_preto.png" width="50px"> https://www.instagram.com/dayas_modas</a></spam><br><br>
-	<spam> <img src="icons/email_preto.png" width="50px">  dayasmodas@gmail.com</spam><br><br>
+	<div class="col-md-7 col-md-offset-3 col-sm-12 borda_esq">
+		<div class="row col-sm-12">
+			<span> <img src="icons/tele_preto.png" width="50px">  (34) 3262 2458</span><br><br>
+		</div>
+		<div class="row col-sm-12">
+			<span> <img src="icons/wpp_preto.png" width="50px">  (34) 9 9206 0023</span><br><br>
+		</div>
+		<div class="row col-sm-12">
+			<span> <a href="https://www.facebook.com/dayas.ituiutaba" target="_blank"> <img src="icons/face_preto.png" width="50px"> https://www.facebook.com/dayas.ituiutaba </a></span><br><br>
+		</div>
+		<div class="row col-sm-12">
+			<span> <a href="https://www.instagram.com/dayas_modas" target="_blank"> <img src="icons/insta_preto.png" width="50px"> https://www.instagram.com/dayas_modas</a></span><br><br>
+		</div>
+		<div class="row col-sm-12">
+			<span> <img src="icons/email_preto.png" width="50px">  dayasmodas@gmail.com</span><br><br>	
+		</div>	
 	</div>
 
 	<div id="localizacao" class="secao col-md-12" > 
 		<br><br><br>
 		<h1 class="spam-secao"> Localização</h1>
 		<hr>
-		<div id=mapa_endereco class="col-md-6 col-md-offset-3 borda_esq">
+		<div id=mapa_endereco class="col-md-7 col-md-offset-3 borda_esq">
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1886.4847387088075!2d-49.47053208848588!3d-18.976934695536475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94a231e533ecb12b%3A0xcb9bc9158d568d75!2sDayas+Modas!5e0!3m2!1spt-BR!2sbr!4v1497826473920" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 			<h2>Ituiutaba-MG</h2>
@@ -92,6 +102,6 @@
 		
 	<footer class="container-fluid text-center col-md-12 rodape">
 	  <p>Todos os direitos reservados</p>
-	</footer>
+	</footer>-->
 </body>
 </html>

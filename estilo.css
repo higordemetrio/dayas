@@ -93,10 +93,14 @@ hr {
   	margin-top: 0px;
 }
 
+@media (min-width: 992px) {
+  .borda_esq{
+    font-size: 30px;
+  }
+}
 
 .borda_esq{
   	border-left: 20px solid black;
-  	font-size: 30px;
 }
 
 .rodape{
