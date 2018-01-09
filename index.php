@@ -12,9 +12,10 @@
 	<title>Dayas Modas</title>
 </head>
 <body  data-spy="scroll" data-target=".navbar" data-offset="50">
-	<div class="container-fluid" style="background-color:white;color:#fff;height:200px;">
-	  	<div id=logo>
-			<p align="center">Dayas Modas</p> 
+	<div class="container-fluid" style="background-color:white;color:#fff;">
+	  	<div id=logo >
+	  		<img align="center" class="logo" src="imagens/logo.png" >
+			<!--<p align="center">Dayas Modas</p> -->
 		</div>
 	</div>
 	 
@@ -102,6 +103,6 @@
 		
 	<footer class="container-fluid text-center col-md-12 rodape">
 	  <p>Todos os direitos reservados</p>
-	</footer>-->
+	</footer>
 </body>
 </html>
